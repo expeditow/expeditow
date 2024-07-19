@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Expedito!
+### Olá, eu sou o Gabriel Expedito! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-expedito-siqueira-silva-2b7aa921b/)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/expedit0)
