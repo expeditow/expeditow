@@ -11,9 +11,9 @@
 
 ---
 
-## 🛠️ Stack Técnica
+## Tech Stack
 
-### 🤖 Dados & IA
+### Data & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -21,7 +21,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🔧 Backend & Engenharia
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -40,13 +40,16 @@
 
 ---
 
-## 🏅 Certificações
+## Certifications
 
-| Certificação | Emissor | Ano |
-|---|---|---|
-| AWS Certified Machine Learning Engineer – Associate | Amazon | 2026 |
-| AWS Certified AI Practitioner | Amazon | 2025 |
-| Java COMPLETO – POO + Projetos | Udemy | 2025 |
+<a href="https://www.credly.com/badges/667b8713-53de-4a51-a141-858f4bfe0976/public_url" target="_blank">
+  <img src="https://i.postimg.cc/bYF9qDss/image.png" height="105"/>
+</a>
+
+
+<a href="https://www.credly.com/badges/18af01aa-3ed5-485e-b06a-634336432029/public_url" target="_blank">
+  <img src="https://i.postimg.cc/Kk0q79QW/image.png" height="105"/>
+</a>
 
 ---
 
