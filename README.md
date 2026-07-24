@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gabriel Expedito
-### Data Science & AI Engineer
+### Data Science & Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggabrielexpedito)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.expedito021@gmail.com)
